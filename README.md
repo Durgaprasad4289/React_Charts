@@ -67,6 +67,7 @@ This project demonstrates how to build a modern analytics dashboard using React 
   <img width="440" height="440" alt="Image" src="https://github.com/user-attachments/assets/262574ad-bae2-40fe-8e61-bd7952ea4745" />
 
 </div>
+
 ---
 ## 🗂 Project Structure
 ```text
