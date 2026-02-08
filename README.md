@@ -71,6 +71,9 @@ This project demonstrates how to build a modern analytics dashboard using React 
 ---
 ## 🗂 Project Structure
 ```text
+
+React_Charts
+|
 ├── 📁 public
 │   └── 🖼️ vite.svg
 ├── 📁 src
