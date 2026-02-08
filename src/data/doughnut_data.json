@@ -1,0 +1,6 @@
+[
+  { "label": "Rent", "value": 40 },
+  { "label": "Food", "value": 25 },
+  { "label": "Travel", "value": 20 },
+  { "label": "Entertainment", "value": 15 }
+]

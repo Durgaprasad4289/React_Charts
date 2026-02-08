@@ -1,0 +1,14 @@
+[
+    { "label": "phase 01", "income": 42850, "outflow": 36210 },
+    { "label": "phase 02", "income": 45500, "outflow": 38940 },
+    { "label": "phase 03", "income": 47230, "outflow": 40180 },
+    { "label": "phase 04", "income": 44670, "outflow": 37890 },
+    { "label": "phase 05", "income": 48900, "outflow": 42050 },
+    { "label": "phase 06", "income": 51240, "outflow": 44830 },
+    { "label": "phase 07", "income": 49810, "outflow": 43200 },
+    { "label": "phase 08", "income": 53460, "outflow": 46910 },
+    { "label": "phase 09", "income": 52190, "outflow": 45170 },
+    { "label": "phase 10", "income": 56320, "outflow": 49780 },
+    { "label": "phase 11", "income": 54870, "outflow": 47640 },
+    { "label": "phase 12", "income": 58900, "outflow": 51820 }
+]
