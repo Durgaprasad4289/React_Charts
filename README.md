@@ -2,10 +2,6 @@
 
 A clean, scalable, and production-ready data visualization dashboard built with React and Chart.js — focused on clarity, correctness, and real-world data modeling.
 
----
-## Live Demo
-
-[Click Here T0 See The Intractive Charts]()
 
 ---
 ## 🚀 Project Overview
