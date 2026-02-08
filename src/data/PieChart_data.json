@@ -1,0 +1,6 @@
+[
+  { "label": "Sleeping", "value": 25 },
+  { "label": "Coding / Study", "value": 5 },
+  { "label": "College / Work", "value": 50 },
+  { "label": "Relax / Breaks", "value": 20 }
+]
