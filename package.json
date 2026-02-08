@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://durgaprasad4289.github.io/React-Charts/",
+  "homepage": "https://durgaprasad4289.github.io/React_Charts/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
