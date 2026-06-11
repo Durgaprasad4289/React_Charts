@@ -101,7 +101,7 @@ React_Charts
 ## ⚙️ Installation & Setup
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/durgaprasadcodes/React_Charts
 
 # Navigate into the project
 cd your-repo-name
